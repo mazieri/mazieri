@@ -4,9 +4,9 @@
 Eai, eu sou o Felipe 👨🏻‍💻
 
 @@Sou desenvolvedor mobile na Maktub Tech@@
-? Tenho 24 anos
++ Tenho 24 anos
 ! Não sei + o que falar sobre eu mesmo...
-# Ai embaixo tem uns links, caso queira me "achar"
+? Ai embaixo tem uns links, caso queira me "achar"
 ```
 <code>
   <a href="https://www.instagram.com/efemazieri/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
