@@ -1,7 +1,7 @@
 <img align="right" height="200" src="https://github.com/mazieri/img/blob/main/ezgif-7-71efe932f73d.gif"/>
 
 ```diff
-Eai, eu sou o Felipe 👨🏻‍💻
+Eai, eu me chamo Felipe 👨🏻‍💻
 
 @@Sou desenvolvedor mobile na Maktub Tech@@
 + Tenho 24 anos
@@ -17,6 +17,13 @@ Eai, eu sou o Felipe 👨🏻‍💻
 <eai>
 <espero que esteja bem>
 <beba água e fique em casa>
+  
+<!--
+aqui eu vou por um código extra, pra caso me der vontade de alterar algo pra não esquecer :P
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mazieri)](https://github.com/mazieri)
+
+-->
 
 <!--
 **mazieri/mazieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
