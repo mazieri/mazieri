@@ -5,8 +5,9 @@ Eai, eu me chamo Felipe 👨🏻‍💻
 
 @@Sou desenvolvedor mobile na Maktub Tech@@
 + Tenho 24 anos
-! Não sei + o que falar sobre eu mesmo...
-? Ai embaixo tem uns links, caso queira me "achar"
+- Gosto bastante de Flutter e Python
+! Sou formado em Segurança da Informação e estou cursando Engenharia Biomédica
+# Ai embaixo tem uns links, caso queira me "achar"
 ```
 <code>
   <a href="https://www.instagram.com/efemazieri/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
