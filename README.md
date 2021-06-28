@@ -3,7 +3,7 @@
 ```diff
 Eai, eu me chamo Felipe 👨🏻‍💻
 
-@@Sou desenvolvedor mobile na Maktub Tech@@
+@@Sou desenvolvedor mobile@@
 + Tenho 24 anos
 - Gosto bastante de Flutter e Python
 ! Sou formado em Segurança da Informação e estou cursando Engenharia Biomédica
