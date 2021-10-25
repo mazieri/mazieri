@@ -11,7 +11,7 @@ Eai, eu me chamo Felipe 👨🏻‍💻
 ```
 <code>
   <a href="https://www.instagram.com/efemazieri/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
-  <a href="https://twitter.com/efemazieri" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a>
+<!--   <a href="https://twitter.com/efemazieri" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a> -->
   <a href="https://www.linkedin.com/in/felipemazieri/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
 </code>
 
