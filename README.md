@@ -9,22 +9,19 @@ Eai, eu me chamo Felipe 👨🏻‍💻
 ! Sou formado em Segurança da Informação e estou cursando Engenharia Biomédica
 # Ai embaixo tem uns links, caso queira me "achar"
 ```
-<code>
-  <a href="https://www.instagram.com/efemazieri/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
-<!--   <a href="https://twitter.com/efemazieri" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg"></a> -->
-  <a href="https://www.linkedin.com/in/felipemazieri/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-</code>
+
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/mazieri/mazieri)](https://badges.pufler.dev) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/felipemazieri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemazieri/)](https://www.linkedin.com/in/felipemazieri/)
+[![Instagram Badge](https://img.shields.io/badge/efemazieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/efemazieri/)](https://instagram.com/efemazieri)
+[![Twitter Badge](https://img.shields.io/badge/efemazieri-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/efemazieri)](https://twitter.com/efemazieri)
+[![Youtube Badge](https://img.shields.io/badge/mazieri-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDZSi3_qE3yiJgHT7KdNtxA)](https://www.youtube.com/channel/UCDZSi3_qE3yiJgHT7KdNtxA)
+
+<!-- <img src="https://komarev.com/ghpvc/?username=mazieri" alt="https://github.com/mazieri" /> -->
 
 <eai>
 <espero que esteja bem>
 <beba água e fique em casa>
-  
-<!--
-aqui eu vou por um código extra, pra caso me der vontade de alterar algo pra não esquecer :P
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mazieri)](https://github.com/mazieri)
-
--->
 
 <!--
 **mazieri/mazieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
