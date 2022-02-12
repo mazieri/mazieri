@@ -6,7 +6,7 @@ Eai, eu me chamo Felipe 👨🏻‍💻
 @@Sou desenvolvedor mobile@@
 + Tenho 24 anos
 - Gosto bastante de Flutter e Python
-! Sou formado em Segurança da Informação e estou cursando Engenharia Biomédica
+! Sou formado em Segurança da Informação
 # Ai embaixo tem uns links, caso queira me "achar"
 ```
 
