@@ -1,13 +1,13 @@
 <img align="right" height="200" src="https://github.com/mazieri/img/blob/main/ezgif-7-71efe932f73d.gif"/>
 
 ```diff
-Eai, eu me chamo Felipe 👨🏻‍💻
+Hey, it's me, Felipe 👨🏻‍💻
 
-@@Sou desenvolvedor mobile@@
-+ Tenho 24 anos
-- Gosto bastante de Flutter e Python
-! Sou formado em Segurança da Informação
-# Ai embaixo tem uns links, caso queira me "achar"
+@@I'm mobile engineer@@
++ Have 24y
+- Like Flutter & Python a lot
+! Graduated in Information Security 
+# There are some links below, in case you want to "find" me
 ```
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/mazieri/mazieri)](https://badges.pufler.dev) -->
