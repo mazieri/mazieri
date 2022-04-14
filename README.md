@@ -13,7 +13,6 @@ Hey, it's me, Felipe 👨🏻‍💻
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/mazieri/mazieri)](https://badges.pufler.dev) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/felipemazieri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemazieri/)](https://www.linkedin.com/in/felipemazieri/)
-[![Instagram Badge](https://img.shields.io/badge/efemazieri-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/efemazieri/)](https://instagram.com/efemazieri)
 [![Twitter Badge](https://img.shields.io/badge/efemazieri-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/efemazieri)](https://twitter.com/efemazieri)
 [![Youtube Badge](https://img.shields.io/badge/mazieri-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCDZSi3_qE3yiJgHT7KdNtxA)](https://www.youtube.com/channel/UCDZSi3_qE3yiJgHT7KdNtxA)
 
