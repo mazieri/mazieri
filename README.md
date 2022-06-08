@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://github.com/mazieri/img/blob/main/ezgif-7-71efe932f73d.gif"/>
+<img align="right" width="250" src="https://github.com/mazieri/img/blob/main/ezgif-7-71efe932f73d.gif"/>
 
 ```diff
 Hey, it's me, Felipe 👨🏻‍💻
