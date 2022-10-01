@@ -9,7 +9,7 @@ Hey, it's me, Felipe 👨🏻‍💻
 ! Graduated in Information Security 
 # There are some links below, in case you want to "find" me
 ```
-https://img.shields.io/badge/website-efemazieri.dev-purple
+
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/mazieri/mazieri)](https://badges.pufler.dev) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/website-efemazieri.dev-purple?style=for-the-badge&link=https://efemazieri.dev)](https://efemazieri.dev)
