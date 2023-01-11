@@ -3,7 +3,7 @@
 ```diff
 Hey, it's me, Felipe 👨🏻‍💻
 
-@@ I'm Flutter Engineer at Neomode @@
+@@ I'm Flutter Engineer @@
 + Have 25y
 - Like Flutter & Python a lot
 ! Graduated in Information Security 
