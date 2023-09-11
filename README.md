@@ -3,8 +3,8 @@
 ```diff
 Hey, it's me, Felipe 👨🏻‍💻
 
-@@ I'm Flutter Engineer @@
-+ Have 25y
+@@ I'm Flutter Engineer at CELK Sistemas @@
++ Have 26y
 - Like Flutter & Python a lot
 ! Graduated in Information Security 
 # There are some links below, in case you want to "find" me
@@ -21,7 +21,7 @@ Hey, it's me, Felipe 👨🏻‍💻
 
 <eai>
 <espero que esteja bem>
-<beba água e fique em casa>
+<beba água>
 
 <!--
 **mazieri/mazieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
