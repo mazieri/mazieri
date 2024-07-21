@@ -3,8 +3,8 @@
 ```diff
 Hey, it's me, Felipe 👨🏻‍💻
 
-@@ I'm Mobile Tech Lead at CELK Sistemas @@
-+ Have 26y
+@@ I'm Flutter Dev @@
++ Have 27y
 - Like Flutter & Python a lot
 ! Graduated in Information Security 
 # There are some links below, in case you want to "find" me
