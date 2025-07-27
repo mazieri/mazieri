@@ -1,15 +1,13 @@
 <img align="right" width="250" src="https://github.com/mazieri/img/blob/main/ezgif-7-71efe932f73d.gif"/>
 
 ```diff
-Hey, it's me, Felipe 👨🏻‍💻
+Eai, blz? Meu nome é Felipe 👨🏻‍💻
 
-@@ I'm Flutter Dev @@
-+ Have 27y
-- Like Flutter & Python a lot
-! Graduated in Information Security
+@@ Sou Dev Flutter @@
++ Tenho 28 anos
+- Formado em Segurança da Informação
+! Voltei para a Faculdade 🎓
 ```
-
-* 🎓 I went back to college
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/mazieri/mazieri)](https://badges.pufler.dev) -->
 
@@ -34,6 +32,15 @@ Hey, it's me, Felipe 👨🏻‍💻
 
 <!--
 **mazieri/mazieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```diff
+Hey, it's me, Felipe 👨🏻‍💻
+
+@@ I'm Flutter Dev @@
++ Have 27y
+- Like Flutter & Python a lot
+! Graduated in Information Security
+```
 
 Here are some ideas to get you started:
 
